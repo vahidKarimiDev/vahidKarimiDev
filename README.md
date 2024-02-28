@@ -6,7 +6,7 @@ const response = {
   ok: true,
   data: {
     name: "vahid karimi",
-    nickName: "</01100111>",
+    nickName: "</01110110>",
     birthDay: "29 October",
     skills: "html, css, js, React",
   },
