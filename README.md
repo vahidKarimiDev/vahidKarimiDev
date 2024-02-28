@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**vahidKarimiDev/vahidKarimiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javaScript
+const response = {
+  status: 202,
+  ok: true,
+  data: {
+    name: "vahid karimi",
+    nickName: "</01100111>",
+    birthDay: "29 October",
+    skills: "html, css, js, React",
+  },
+};
+```
