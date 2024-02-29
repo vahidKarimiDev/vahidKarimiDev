@@ -4,7 +4,7 @@
 const response = {
   status: 202,
   ok: true,
-  data: {
+  info: {
     name: "vahid karimi",
     nickName: "</01110110>",
     birthDay: "29 October",
