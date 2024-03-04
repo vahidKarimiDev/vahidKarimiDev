@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### I Am Vahid Karimi
 
 ```javaScript
 const response = {
