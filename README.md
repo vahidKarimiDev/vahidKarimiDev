@@ -12,7 +12,5 @@ const response = {
   },
 };
 ```
-
-(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmenB0N3hlbzkwdnhnemFlaW5rMDdpMDFlZWd3cGlob3k0ZjI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)[coding]
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmenB0N3hlbzkwdnhnemFlaW5rMDdpMDFlZWd3cGlob3k0ZjI4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 
