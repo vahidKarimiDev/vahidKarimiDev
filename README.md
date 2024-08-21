@@ -8,7 +8,7 @@ const response = {
     name: "vahid karimi",
     nickName: "</01110110>",
     birthDay: "29 October",
-    skills: "html, css, js, React, Redux, Next Js",
+    skills: "html, css, Js, React, Redux, Next Js, Git",
   },
 };
 ```
