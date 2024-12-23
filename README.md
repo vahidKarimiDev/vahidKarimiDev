@@ -2,7 +2,7 @@
 
 ```javaScript
 const response = {
-  status: 202,
+  status: 200,
   ok: true,
   info: {
     name: "vahid karimi",
